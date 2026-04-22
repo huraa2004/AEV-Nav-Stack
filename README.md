@@ -12,7 +12,6 @@ A ROS-based navigation stack for a 1/10-scale autonomous RC car. The project imp
 ├── navigation_gap_barrier.py   # Gap-following + virtual-barrier controller
 ├── occupancygridmap.py         # Bayesian log-odds occupancy grid mapper
 ├── params.yaml                 # All vehicle and algorithm parameters
-└── 3ey.md                      # Supporting theory notes (kinematics, mapping, QP, control)
 ```
 
 ---
